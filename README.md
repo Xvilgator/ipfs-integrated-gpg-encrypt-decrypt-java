@@ -1,18 +1,7 @@
-## Getting Started
+## About
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This java project is built to use BouncyCastle's PGP encryption and decryption methods for securing files and uploading them to IPFS storage using java-ipfs-http-client.
 
-## Folder Structure
+## Issues and further development
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Getting PGP encrypted files from IPFS in Java program is currently not possible. Implementation to assemble pgp file from ByteArray output of IPFS is to be added. 
