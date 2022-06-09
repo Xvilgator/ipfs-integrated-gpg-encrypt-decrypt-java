@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Harshvardhan-PC\\Downloads\\bcprov-jdk18on-171.jar",
+        "c:\\Users\\Harshvardhan-PC\\Downloads\\multiaddr.jar",
+        "c:\\Users\\Harshvardhan-PC\\Downloads\\multibase.jar",
+        "c:\\Users\\Harshvardhan-PC\\Downloads\\cid.jar",
+        "c:\\Users\\Harshvardhan-PC\\Downloads\\multihash.jar",
+        "c:\\Users\\Harshvardhan-PC\\Downloads\\ipfs.jar",
+        "c:\\Users\\Harshvardhan-PC\\Downloads\\bcpg-jdk18on-171.jar"
+    ]
+}
